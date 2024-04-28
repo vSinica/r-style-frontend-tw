@@ -1,7 +1,5 @@
 import './App.css';
 import Employe from "./components/employe/employe";
-import PostList from "./components/post/PostList";
-import UserHeader from "./components/userheader/UserHeader"
 import axios from 'axios';
 import React, { useState, useEffect } from "react";
 
